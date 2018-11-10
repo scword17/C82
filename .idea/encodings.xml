@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/congfig/AppConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/control/InitControl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/control/UserControl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/dao/UserImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/filter/EncodingFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/po/UserEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/service/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/bootstrap" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/font-awesome" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js" charset="GBK" />
+  </component>
+</project>
